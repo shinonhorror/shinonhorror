@@ -4,7 +4,7 @@
 
 ### :man_technologist: Обо мне:
 
-После окончания бакалавриата по специальности информатика и вычислительная техника я выбрала направление фронтенд, так как мне нравится видеть результаты своей работы и решать сложные, нетривиальные задачи. Хочу создавать действительно удобные и дружелюбные интерфейсы. Путь во фронтенд начался с курсов от Ulbi на YouTube и обучающих роликов по верстке. Но я поняла, что мне этого недостаточно. Освоила React, JS, HTML и SCSS самостоятельно, потом прошла пару небольших углубленных курсов по React и TS. И вот, в сентябре 2022 я прошла тестовое на курс Мидл-фронтенд разработчика в Яндекс :heart:. Я прыгнула с места в карьер, но получила кучу эмоций и знаний, на данный момент я закончила курс и продолжаю акселерацию от Яндекса. 
+Во время обучения на программе бакалавриата по специальности информатика и вычислительная техника я выбрала направление фронтенд, так как мне нравится видеть результаты своей работы и решать сложные, нетривиальные задачи. Хочу создавать действительно удобные и дружелюбные интерфейсы. Путь во фронтенд начался с курсов от Ulbi на YouTube и обучающих роликов по верстке. Но я поняла, что мне этого недостаточно. Освоила React, JS, HTML и SCSS самостоятельно, потом прошла пару небольших углубленных курсов по React и TS. И вот, в сентябре 2022 я прошла тестовое на курс Мидл-фронтенд разработчика в Яндекс :heart:. Я прыгнула с места в карьер, но получила кучу эмоций и знаний, что позволило мне перейти барьер с джуна на мидл разработчика.
 
 <p align="center">
  <img width="600" src="assets/github-snake.svg" alt="snake"/>
@@ -34,6 +34,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="javascript" alt="javascript" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="typescript" alt="typescript" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="reactjs" alt="reactjs" width="40" height="40"/>&nbsp
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="nextjs-original.svg" alt="nextjs-original.svg" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="redux" alt="redux" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" title="wordpress" alt="wordpress" width="40" height="40"/>&nbsp;
 </div>
@@ -53,6 +54,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/eslint/eslint-original.svg" title="eslint" alt="eslint" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="materialui" alt="materialui" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="bootstrap" alt="bootstrap" width="40" height="40"/>&nbsp;
+   <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" title="tailwindcss" alt="tailwindcss" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/storybook/storybook-original.svg" title="storybook" alt="storybook" width="40" height="40"/>&nbsp;
 </div>
 
@@ -72,7 +74,6 @@
 | Курсы                                                           | Дата              |
 | ----------------------------------------------------------------| :---------------: |
 | Бакалавриат (информатика и вычислительная техника)  :closed_book:                    | 08/2018 - 08/2022 |
-| [udemy](https://www.udemy.com/course/react-ru/)/Полный Курс по React                    | 12/2022 - 01/2023 |
 | [practicum.yandex](https://practicum.yandex.ru/middle-frontend/)/Мидл-фронтенд разработчик                       | 12/2022 - 07/2023 |
 
 --- 
